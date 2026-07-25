@@ -1,6 +1,6 @@
 # sushitam112
 ### Hi, I'm Sushmita 👋
-🎓 Junior @ UW Seattle, Studying CS + Neural Computation & Engineering
+🎓 Junior @ UW Seattle, Studying CS + Neural Computation & Engineering //
 🔭 Aspiring Machine Learning/Neural Engineer
 
  💻 Currently working on computer vision pipelines for behavioral neuroscience and embedded AI for small robots. I really enjoy thinking about the intersection of using AI for neuroscience and understanding more about the brain. 
