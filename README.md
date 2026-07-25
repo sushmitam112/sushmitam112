@@ -5,4 +5,4 @@
 - 🌱 Interested in neuro-AI, BCI, and embedded AI
 - 💻 Working on computer vision pipelines for behavioral neuroscience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmitam112&show_icons=true)
