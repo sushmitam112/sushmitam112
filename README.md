@@ -20,9 +20,9 @@ Databases: SQL
 #### 🚀 Projects:
 A few other  projects I’ve worked on:
 
-DinoNuggets - Head-Motion Based 
+DinoNuggets - Head-Motion EEG-Based Dinosaur Game Control
 
-A proj.
+We created a head-motion based dinosaur game control using an OpenBCI headset and taking in live EEG data to control the jumps/duck motions in the dinosaur game. Trained an RF classifier to differentiate side versus up nods and reached ~84% accuracy.
 
 Tech Stack: Python, PyTorch, OpenBCI
 
